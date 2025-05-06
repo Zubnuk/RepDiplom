@@ -1,0 +1,4 @@
+repository "Rus@zubeninnikita@cloud"
+  path "/"
+    br "/main"
+    co "/main"
